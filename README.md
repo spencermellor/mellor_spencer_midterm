@@ -1,1 +1,1 @@
-# mellor_s_Project3Scaffold
+# mellor_spencer_midterm
